@@ -16,10 +16,5 @@ class Email:
     else:
         return False
 
-
-
-
-
-
 email1 = Email('fulano@gmail.com')
 email2 = Email('@fulano.gmail.com')
